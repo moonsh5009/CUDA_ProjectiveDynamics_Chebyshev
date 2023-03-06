@@ -4,6 +4,7 @@
  - 효율적인 BVH 빌드 방법과 R-Triangle기법으로 충돌처리 가속화
 
 Projective Dynamics 기법으로 옷감 시뮬레이션을 구현하고 Chebyshev Semi-Iterative 기법으로 가속화
+
 프로젝트를 진행하면서 Linear System 에 대한 이해도가 높아짐
 
 참고문헌
