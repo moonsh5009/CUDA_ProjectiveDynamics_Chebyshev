@@ -8,10 +8,10 @@ Projective Dynamics 기법으로 옷감 시뮬레이션을 구현하고 Chebyshe
 프로젝트를 진행하면서 Linear System 에 대한 이해도가 높아짐
 
 # Scene
-- scene1
+#### 1
 ![scene1](https://user-images.githubusercontent.com/86860544/228158156-75b8c6e8-923a-4c6f-b856-32ae83bae21c.gif)
 
-- scene2
+#### 2
 ![scene2](https://user-images.githubusercontent.com/86860544/228158174-6673f570-76d8-4219-8f60-cc50ef5ebb27.gif)
 
 
